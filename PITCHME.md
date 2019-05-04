@@ -2,7 +2,9 @@
 
 3 Cool Vim Things
 -----------------
+
 Peter Landoll
+
 _@pwlandoll_
 
 ---
@@ -41,6 +43,9 @@ Timestamped History
 
 ---
 @title[Conclusion]
+
+Thank You!
+----------
 
 github.com/pwlandoll/pycon2019-lightning-talk
 
